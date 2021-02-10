@@ -1,0 +1,18 @@
+{
+    "name": "troll/cms",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.2"
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "troll",
+            "email": "cvbelk@gmail.com"
+        }
+    ],
+    "require": {}
+}
